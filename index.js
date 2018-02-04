@@ -7,6 +7,27 @@ function foo(a, b){
 }
 
 function bar(a, b){
+
+	if(a===b){
+
+	}else{
+		if(a>b){
+
+		}else{
+			if(a<b){
+
+			}
+		}
+	}
+
+	if(a === 0){
+
+	}else{
+		if(b===0){
+			
+		}
+	}
+
 	return a + 2;
 }
 
